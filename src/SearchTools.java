@@ -7,6 +7,8 @@ import java.util.Random;
  * 					recherche des caractères de la combinaison
  * 					secrète.
  * 
+ * @author:			Alexandre Laroche
+ * 
  **************************************************************/
 public class SearchTools {
 
