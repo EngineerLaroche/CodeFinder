@@ -8,7 +8,7 @@ L'idée est d'étudier et implémenter quatre techniques de décodage afin d'év
 
 Quatre techniques de décodage ont été implémentées:
 
-	  1- Brute Force
+    1- Brute Force
   	2- Optimized Brute Force
   	3- Optimized Brute Force with Intervals
   	4- Optimized Brute Force with Intervals Reverse Engineering 
@@ -18,80 +18,4 @@ L'évolution de l'identification de la combinaison secrète est affichée dans l
 
 Voici un simple exemple de ce que vous allez retrouver dans la cvonsole après avoir démarrée l'application.
 
-
-******************************************
-*                BIENVENU !              *
-*                                        *
-*  Voici une application qui utilise 4   *
-*  techniques différentes pour trouver   *
-*  une combinaison hexadécimale secrète  *
-*  générée au hasard.                    *
-*                                        *
-******************************************
-              _________	
-             /#########.	
-            /#/       |#|	
-            |#|       |#|	
-            |#|       |#|	
- /###############.	   		
- |#             #| 		
- |#             #| 		
- |#  UNLOCKED   #| 		
- |#  UW6436313	#| 		
- |#             #| 		
- .###############/ 		
-
-
-******************************************
-* 				Brute Force 			 *
-******************************************
-
-Attempts : Y1Z8D7W1W2K9M1M4P8X6F9B6Y5Q6R3D4H5L6S8Y8B9B4Q2P2Y6Z7M6V5W5P9B0K5P6Z9S9U5 U
-
-     _________			
-    /#########.			
-   /#/       |#|			
-   |#|       |#|			
-   |#|       |#|			
- /###############.	   		
- |#             #| 		
- |#             #| 		
- |#   LOCKED    #| 		
- |#  U********	#| 		
- |#             #| 		
- .###############/ 		
-
-Attempts : V2K9P6J8B5Z9P1L1L5B1T5P1K2N1K7W3 W
-
-     _________			
-    /#########.			
-   /#/       |#|			
-   |#|       |#|			
-   |#|       |#|			
- /###############.	   		
- |#             #| 		
- |#             #| 		
- |#   LOCKED    #| 		
- |#  UW*******	#| 		
- |#             #| 		
- .###############/ 		
-
-(...)	
-
-Attempts : R6D8M9D2Z5F5R6G1V8X1C9W5P5Z7A6O0H 3
-
-              _________	
-             /#########.	
-            /#/       |#|	
-            |#|       |#|	
-            |#|       |#|	
- /###############.	   		
- |#             #| 		
- |#             #| 		
- |#  UNLOCKED   #| 		
- |#  UW6436313	#| 		
- |#             #| 		
- .###############/  
-
-## Author
-- Alexandre Laroche
+![alt text](https://github.com/k1n6ar3a/CodeFinder/blob/master/Example%20PNG/Short%20example%20of%20Brute%20Force.png)
