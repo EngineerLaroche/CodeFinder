@@ -23,3 +23,8 @@ L'évolution de l'identification de la combinaison secrète est affichée dans l
 Voici un simple exemple de ce que vous allez retrouver dans la cvonsole après avoir démarrée l'application.
 
 ![alt text](https://github.com/k1n6ar3a/CodeFinder/blob/master/Example%20PNG/Short%20example%20of%20Brute%20Force.png)
+
+## Auteur
+
+- Nom:   Alexandre Laroche
+- Date:  Automne 2016
