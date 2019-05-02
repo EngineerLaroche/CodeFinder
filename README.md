@@ -13,8 +13,12 @@ Quatre techniques de décodage ont été implémentées:
   	3- Optimized Brute Force with Intervals
   	4- Optimized Brute Force with Intervals Reverse Engineering 
 
+## Démarrer l'application
+
 Le démarrage de l'application se fait à partir de la classe Application.java.
-L'évolution de l'identification de la combinaison secrète est affichée dans la console de votre IDE Java.
+L'évolution de l'identification de la combinaison secrète est affichée dans la console de votre IDE (Java).
+
+## Exemple
 
 Voici un simple exemple de ce que vous allez retrouver dans la cvonsole après avoir démarrée l'application.
 
